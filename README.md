@@ -7,7 +7,7 @@ This exercise is a vanilla JavaScript implementation of a simple drum kit that a
 
 Uses the rarely seen `<kbd>` element.
 
-The results is a simple but fun to play with!
+The result is a simple but fun to play with!
 
 Deployed site: [https://drmartell.github.io/JS30-drum-kit/](https://drmartell.github.io/JS30-drum-kit/)
 #
